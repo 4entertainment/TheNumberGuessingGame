@@ -1,3 +1,4 @@
+# to execute and analyse: https://pythontutor.com/render.html#mode=display
 from art import logo
 import random
 
